@@ -169,5 +169,5 @@
 ---
 
 ### 🧭 Crafted with ❤️ by [Rahul E](https://github.com/rahulennazhiyil)
-
+rahulfinchinnovate@gmail.com
 > *“The right tools don’t just make you faster — they make you love what you build.”* ⚡
